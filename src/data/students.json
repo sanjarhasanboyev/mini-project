@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "groupSize": "15 ta",
+    "phone": "99 123-45-67",
+    "direction": "Frontend",
+    "courses": ["Dasturlash", "Ingliz tili"],
+    "balance": 665,
+    "status": "Aktiv"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "groupSize": "12 ta",
+    "phone": "99 111-22-33",
+    "direction": "Backend",
+    "courses": ["Dasturlash"],
+    "balance": 430,
+    "status": "Aktiv"
+  },
+  {
+    "id": 3,
+    "name": "Ali Valiyev",
+    "groupSize": "18 ta",
+    "phone": "99 222-33-44",
+    "direction": "Frontend",
+    "courses": ["Ingliz tili"],
+    "balance": 150,
+    "status": "Arxiv"
+  },
+  {
+    "id": 4,
+    "name": "Aziza Karimova",
+    "groupSize": "20 ta",
+    "phone": "99 333-44-55",
+    "direction": "Mobile",
+    "courses": ["Dasturlash", "Ingliz tili"],
+    "balance": 700,
+    "status": "Aktiv"
+  },
+  {
+    "id": 5,
+    "name": "Bekzod Tursunov",
+    "groupSize": "16 ta",
+    "phone": "99 444-55-66",
+    "direction": "Data Science",
+    "courses": ["Dasturlash"],
+    "balance": 980,
+    "status": "Aktiv"
+  },
+  {
+    "id": 6,
+    "name": "Dilorom Ismoilova",
+    "groupSize": "14 ta",
+    "phone": "99 555-66-77",
+    "direction": "Frontend",
+    "courses": ["Ingliz tili"],
+    "balance": 300,
+    "status": "Arxiv"
+  },
+  {
+    "id": 7,
+    "name": "Elyor Qodirov",
+    "groupSize": "15 ta",
+    "phone": "99 666-77-88",
+    "direction": "Backend",
+    "courses": ["Dasturlash", "Ingliz tili"],
+    "balance": 605,
+    "status": "Aktiv"
+  },
+  {
+    "id": 8,
+    "name": "Gulbahor Raximova",
+    "groupSize": "17 ta",
+    "phone": "99 777-88-99",
+    "direction": "Mobile",
+    "courses": ["Ingliz tili"],
+    "balance": 750,
+    "status": "Aktiv"
+  },
+  {
+    "id": 9,
+    "name": "Husan Sobirov",
+    "groupSize": "13 ta",
+    "phone": "99 888-99-00",
+    "direction": "Frontend",
+    "courses": ["Dasturlash"],
+    "balance": 120,
+    "status": "Arxiv"
+  },
+  {
+    "id": 10,
+    "name": "Dilshod Karimov",
+    "groupSize": "19 ta",
+    "phone": "99 999-00-11",
+    "direction": "Backend",
+    "courses": ["Dasturlash", "Ingliz tili"],
+    "balance": 850,
+    "status": "Aktiv"
+  }
+]
