@@ -1,12 +1,9 @@
-import Groups from "./components/Groups"
+import { RouterProvider } from "react-router-dom";
+import Groups from "./components/Groups";
+import router from "./routing/router";
 
 function App() {
-
-  return (
-    <>
-      <Groups/>
-    </>
-  )
+  return <RouterProvider router={router} />;
 }
 
-export default App
+export default App;
